@@ -2,15 +2,15 @@
   "format-precision": {
     "data": [
       {
-        "collector_user_id": "1",
+        "id": 1,
         "average_amount_acc": 24.4706
       },
       {
-        "collector_user_id": "2",
+        "id": 2,
         "average_amount_acc": 31.0000
       },
       {
-        "collector_user_id": "2",
+        "id": 3,
         "average_amount_acc": 1.579
       }
     ],
